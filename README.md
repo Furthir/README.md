@@ -8,7 +8,7 @@ I use arch (btw)
 
 [I make custom themes for some sites](https://github.com/Furthir/custom-css)
 
-[I maintain a list of amazing open source projects for everyday use](https://git.new/repolist)
+[I maintain a list of open source projects for everyday use](https://git.new/repolist)
 
 
 ### GitHub Stats
